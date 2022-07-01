@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 //toast
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.min.css";
-// firease
+// firebase
 import firebase from "firebase/app";
 import "firebase/auth";
 // components
